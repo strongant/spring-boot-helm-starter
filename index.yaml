@@ -3,11 +3,11 @@ entries:
   spring-boot:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: "2023-01-06T19:19:08.846923+08:00"
+    created: "2023-01-06T19:22:14.587315+08:00"
     description: A Helm chart starter for deploying a Spring Boot app to Kubernetes
-    digest: 48f7a6e3352c30c1fb6048508df440f251f8db7b6afe1c9395f59e3fe005e4f6
+    digest: 3280df3abe02c1371045d8b052bf1076d30467c60eec2b000532d6573724d63e
     name: spring-boot
     urls:
-    - https://github.com/strongant/spring-boot-helm-starter/files/10359693/spring-boot-0.1.0.tgz
+    - https://github.com/strongant/spring-boot-helm-starter/files/10359693/spring-boot-0.1.0.tgz/spring-boot-0.1.0.tgz
     version: 0.1.0
-generated: "2023-01-06T19:19:08.846218+08:00"
+generated: "2023-01-06T19:22:14.584185+08:00"
