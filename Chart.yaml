@@ -3,3 +3,21 @@ appVersion: "1.0.0"
 description: A Helm chart starter for deploying a Spring Boot app to Kubernetes
 name: spring-boot
 version: 0.1.0
+
+
+
+home: https://github.com/strongant/spring-boot-helm-starter
+keywords:
+  - spring-boot-helm-starter
+source:
+  - https://github.com/strongant/spring-boot-helm-starter
+maintainers:
+  - name: strongant
+    email: strongant1994@gmail.com
+    url: https://github.com/strongant
+annotations:
+  artifacthub.io/links: |
+    - name: Chart Source
+      url: https://github.com/strongant/spring-boot-helm-starter
+    - name: Source
+      url: https://github.com/strongant/spring-boot-helm-starter
