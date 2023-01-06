@@ -1,3 +1,13 @@
 apiVersion: v1
-entries: {}
-generated: "2023-01-06T19:07:41.98928+08:00"
+entries:
+  spring-boot:
+  - apiVersion: v1
+    appVersion: 1.0.0
+    created: "2023-01-06T19:11:04.337725+08:00"
+    description: A Helm chart starter for deploying a Spring Boot app to Kubernetes
+    digest: 48f7a6e3352c30c1fb6048508df440f251f8db7b6afe1c9395f59e3fe005e4f6
+    name: spring-boot
+    urls:
+    - https://gree-gorey.github.io/helm-example/spring-boot-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-01-06T19:11:04.336632+08:00"
