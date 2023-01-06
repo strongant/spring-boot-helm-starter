@@ -3,11 +3,11 @@ entries:
   spring-boot:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: "2023-01-06T19:36:21.068204+08:00"
+    created: "2023-01-06T19:51:46.968057+08:00"
     description: A Helm chart starter for deploying a Spring Boot app to Kubernetes
     digest: 9fa926f8022067e7aa50a7b78815abc007c5a66aaca30de6905e658bb98fe5af
     name: spring-boot
     urls:
-    - spring-boot-0.1.0.tgz
+    - charts/spring-boot-0.1.0.tgz
     version: 0.1.0
-generated: "2023-01-06T19:36:21.066812+08:00"
+generated: "2023-01-06T19:51:46.966126+08:00"
