@@ -8,6 +8,6 @@ entries:
     digest: 3280df3abe02c1371045d8b052bf1076d30467c60eec2b000532d6573724d63e
     name: spring-boot
     urls:
-    - https://github.com/strongant/spring-boot-helm-starter/files/10359693/spring-boot-0.1.0.tgz/spring-boot-0.1.0.tgz
+    - https://github.com/strongant/spring-boot-helm-starter/files/10359736/spring-boot-0.1.0.tgz
     version: 0.1.0
 generated: "2023-01-06T19:22:14.584185+08:00"
